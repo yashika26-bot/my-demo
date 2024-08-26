@@ -1,2 +1,3 @@
 # my-demo
-this is my first git repository
+This is my First Git Repository
+Author - yashika sharma
